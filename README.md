@@ -60,6 +60,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
+**TABULAR COLUMN**
 
 <img width="364" height="502" alt="image" src="https://github.com/user-attachments/assets/a1080c8c-90b8-4817-900e-1bf291d2646c" />
 
